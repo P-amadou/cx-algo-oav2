@@ -1,5 +1,4 @@
 function insertion(tab=[]) {
-    let tabTrier=[]
     for (let i = 0; i < tab.length; i++) {
         tmp = tab[i]
         j = i - 1
